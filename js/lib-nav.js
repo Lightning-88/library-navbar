@@ -27,5 +27,3 @@ const initNavbar = () => {
     closeSidebar();
   });
 };
-
-export { initNavbar };
